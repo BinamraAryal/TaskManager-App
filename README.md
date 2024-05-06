@@ -26,6 +26,7 @@
 
         - open up a new terminal and start the MongoDB server
             $server>mongod --dbpath "/data/db" 
+            
             if the command shows path_error use fullpath name for --dbpath
 
         - again open up another terminal and start the node server
